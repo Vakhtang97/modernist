@@ -1,5 +1,12 @@
-.blog-container-1{
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
 	background-image: url("../img/5.jpg");	
+}
+.blog-container-1{
+	/*background-image: url("../img/5.jpg");	*/
 }
 .rose{
 	padding: 5px;
@@ -21,6 +28,7 @@
 	border-left: 0;
 	border-bottom: 0;
 	border-top: 0;
+	width: 100% !important;
 }
 
 .footer-blog-2{
@@ -34,7 +42,10 @@
 	color: white;
 }
 .genius{
-	/*background-color: #333333;*/
+	height: 100px;
+	margin: 10px;
+	/*font-size: 100%;*/
+	line-height: 50px;
 }
 .das{
 	margin: 10px;
