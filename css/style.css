@@ -1,0 +1,55 @@
+.blog-container-1{
+	background-image: url("../img/5.jpg");	
+}
+.rose{
+	padding: 5px;
+}
+
+.rose:hover{
+
+	background: green;
+	border-radius: 10px;
+}
+
+.footer-blog-1{
+	background-color: #333333;
+}
+
+.footer-blog-1 .card{
+	background-color: #333333!important;
+	color: #b3b3b3;
+	border-left: 0;
+	border-bottom: 0;
+	border-top: 0;
+}
+
+.footer-blog-2{
+	background-color: #1a1a1a;
+}
+.genius{
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	/*background-color: #333333;*/
+	color: white;
+}
+.genius{
+	/*background-color: #333333;*/
+}
+.das{
+	margin: 10px;
+}
+.das:hover{
+	background: green;
+	border-radius: 10px;
+}
+.tnayin{
+	margin: 10px;
+}
+.tnayin:hover{
+	background: green;
+	border-radius: 10px;
+}
+.aoc:hover{
+	color: green;
+}
